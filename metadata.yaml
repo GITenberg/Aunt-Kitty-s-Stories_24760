@@ -1,0 +1,34 @@
+_repo: Aunt-Kitty-s-Stories_24760
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Howard, Justin H.
+    alias: Howard, J. H. (Justin H.)
+    gutenberg_agent_id: '26743'
+    url: http://www.gutenberg.org/2009/agents/26743
+covers:
+- cover_type: archival
+  image_path: 24760-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2008-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile poetry'
+- !lcsh 'Children -- Conduct of life -- Juvenile poetry'
+- !lcsh 'Nursery rhymes'
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry'
+title: Aunt Kitty's Stories
+url: http://www.gutenberg.org/ebooks/24760
